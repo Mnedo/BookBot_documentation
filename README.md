@@ -10,8 +10,8 @@
 * ### /mybots - отридактируйте бота на ваш вкус 
 ![FatherBot](https://github.com/Mnedo/BookBot_documentation/blob/main/FatherBot.jpg)
 ## №2 Пройдите опрос ##
-### Заполните форму, которая поможет настроить систему для вас!  
-### Форма: https://forms.gle/1tnyobeEsaqVxRrX9
+### Заполните [форму](https://forms.gle/JzNfFex6wXQeyRY29), которая поможет настроить систему для вас!  
+### Форма: https://forms.gle/JzNfFex6wXQeyRY29
 
 ## №3 Сообщить админу и ждать ##
 ## №4 Немного настроек в системе ##
