@@ -8,17 +8,17 @@
 * ### /newbot - создания бота. Вам будет предложено выбрать имя(name), именно оно будет отображаться в чатах с клиентами, и пользовательское имя(username) - имя бота в системе телеграм. Это имя должно быть уникальным и обязано оканчиваться на «bot». Вы так же можете указать ссылку на вашего бота: https://t.me/username
 * ### Запомните Token, он потребуется позже. С помощью него происходит коннект
 * ### /mybots - отредактируйте бота на ваш вкус 
-![FatherBot](https://github.com/Mnedo/BookBot_documentation/blob/main/FatherBot.jpg)
+![FatherBot](https://github.com/Mnedo/BookBot_documentation/blob/main/images/FatherBot.jpg)
 ## №2 Пройдите опрос ##
 ### Заполните [форму](https://forms.gle/3EoRpNjLX1kwnNKz7), которая поможет настроить систему для вас!  
 ### Форма: https://forms.gle/3EoRpNjLX1kwnNKz7
-![GoogleForm](https://github.com/Mnedo/BookBot_documentation/blob/main/GFORM.jpg)
+![GoogleForm](https://github.com/Mnedo/BookBot_documentation/blob/main/images/GFORM.jpg)
 ## №3 Сообщить админу и ждать ##
 ### Потребуется некоторое время, чтобы настроить бота.  ###
 ### На этом этапе нужно немного подождать. Мы с вами свяжемся. ###
 ## №4 Немного настроек в системе ##
 ### После создания бота вам необходим зайти в диалог с вашем ботом. Напишите /start для начала диалога. В личном кабинете пропишите команду /Статус и сообщите админу ваш id.  ###
 ### Вас добавят к суперпользователям, после этого вы получите доступ к панели администрирования. Подробнее с функционалом можно ознакомиться в системе, в этой панели вам нужно создать мастеров и сервисы. Пропишите в чат /instructions - для получения подробной информации. ###
-![AdminPanel](https://github.com/Mnedo/BookBot_documentation/blob/main/admin.png)
+![AdminPanel](https://github.com/Mnedo/BookBot_documentation/blob/main/images/admin.png)
 ## №5 Готово! Что с обслуживанием? ##
 ### Система синхронизирует данные с базой данных раз в 24 часа. Очистка системы так же автоматизирована. Подробнее ознакомьтесь лично. ###
